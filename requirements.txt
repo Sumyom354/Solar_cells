@@ -1,0 +1,7 @@
+Flask==3.0.3
+Pillow==11.0.0
+numpy==1.26.4
+tensorflow==2.18.0
+matplotlib==3.9.2
+keras==3.6.0
+gunicorn==23.0.0
